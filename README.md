@@ -36,8 +36,8 @@
 ## 📊 GitHub Stats | Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laura-Linares&show_icons=true&theme=tokyonight&hide_border=true" alt="Laura's GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-Linares&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lauralinares1&show_icons=true&theme=tokyonight&hide_border=true" alt="Laura's GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauralinares1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180em" />
 </p>
 
 ---
