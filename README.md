@@ -44,7 +44,7 @@
 
 ## 📫 Contact
 - 📧 Email: *lauralinarescontacto@gmail.com*  
-- 💼 LinkedIn: *upgrading it*  
+- 💼 LinkedIn: *lauralinareslopez*  
 - 📝 Blog/Portfolio: *working on it*  
 
 ---
