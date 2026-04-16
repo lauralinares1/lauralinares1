@@ -1,70 +1,58 @@
-# 👋 Hi, I'm Laura | Holi, soy Laura 👋 
+<div align="center">
 
-## 🇬🇧 About Me ~
-- 🎓 I'm currently studying **2nd year of Higher Vocational Training in Administration of Computer Systems in Network (ASIR)**.  
-- ✍️ In my free time, I also love **writing and creating stories**, looking for ways to share my work with others.  
-- 🚀 My goal is to keep growing as a **tech professional**.
+# Laura Linares
 
-## 🇪🇸 Sobre mí ~
-- 🎓 Actualmente estudio **2º de FP Superior en Administración de Sistemas Informáticos en Red (ASIR)**.  
-- ✍️ En mi tiempo libre me gusta **escribir y crear historias**, buscando formas de compartir mi trabajo con los demás.  
-- 🚀 Mi objetivo es seguir creciendo como **profesional de la informática**.
+**Sysadmin & IT Infrastructure · ASIR · Granada, Spain**
 
----
+![Open to work](https://img.shields.io/badge/Open%20to%20work-blue?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=linux&logoColor=white&color=0F6E56)
+![Networking](https://img.shields.io/badge/Networking-informational?style=flat-square&color=534AB7)
+![English B2→C1](https://img.shields.io/badge/English-B2%20→%20C1-informational?style=flat-square&color=BA7517)
 
-## 🌐 Languages | Idiomas
-- 🇪🇸 **Spanish**: Native / Nativo  
-- 🇬🇧 **English**: Cambridge B2 (in progress towards C1)
-
-  <img src="https://img.shields.io/badge/English-B2%20→%20C1-blue?style=for-the-badge&logo=google-translate&logoColor=white" />
+</div>
 
 ---
 
-## 🧰 Technical Skills / Habilidades Técnicas
+## About
 
-### 💻 Programming & Markup Languages
-| Language | Level | Badge |
-|-----------|--------|-------|
-| HTML5 | 🟢 Intermediate | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> |
-| CSS3 | 🟢 Intermediate | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> |
-| Python | 🟡 Basic | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> |
-| Bash | 🟡 Basic | <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> |
-| MySQL | 🟢 Intermediate | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> |
+| | |
+|---|---|
+| **Currently** | 2nd year ASIR — systems administration & networking |
+| **Focus** | Infrastructure, automation & system reliability |
+| **Also into** | Storytelling & creative writing |
+| **Goal** | First role in IT ops / sysadmin after graduating |
 
 ---
 
-## 📊 GitHub Stats | Estadísticas de GitHub
+## Technical stack
+
+**Intermediate**
+`Linux / Bash` `Networking (TCP/IP, DNS, DHCP)` `MySQL` `HTML5 + CSS3`
+
+**Basic / learning**
+`Python` `Virtualisation (VirtualBox)` `Windows Server`
+
+---
+
+## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lauralinares1&show_icons=true&theme=tokyonight&hide_border=true" alt="Laura's GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauralinares1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lauralinares1&show_icons=true&theme=tokyonight&hide_border=true" height="160em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauralinares1&layout=compact&theme=tokyonight&hide_border=true" height="160em" />
 </p>
 
 ---
 
-## 📫 Contact
-- 📧 Email: *lauralinarescontacto@gmail.com*  
-- 💼 LinkedIn: *lauralinareslopez*  
-- 📝 Blog/Portfolio: *working on it*  
+## Contact
+
+✉ lauralinarescontacto@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/lauralinareslopez) &nbsp;|&nbsp; Portfolio — coming soon
 
 ---
 
-<p align="center">
-  ✨ 宝剑锋从磨砺出，梅花香自苦寒来 ✨ <br>
-  ✨ "A sharp sword is forged through grinding, and the plum blossom’s fragrance comes from bitter cold." ✨
-</p>
+<div align="center">
 
-<!--
-**Laura-Linares/Laura-Linares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+宝剑锋从磨砺出，梅花香自苦寒来
 
-Here are some ideas to get you started:
+*A sharp sword is forged through grinding, and the plum blossom's fragrance comes from bitter cold.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
