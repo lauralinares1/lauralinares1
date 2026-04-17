@@ -2,12 +2,14 @@
 
 # Laura Linares
 
-**Sysadmin & IT Infrastructure · ASIR · Granada, Spain**
+**Sysadmin & Infrastructure · ASIR · Granada, Spain**
 
-![Open to work](https://img.shields.io/badge/Open%20to%20work-blue?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=linux&logoColor=white&color=0F6E56)
-![Networking](https://img.shields.io/badge/Networking-informational?style=flat-square&color=534AB7)
-![English B2→C1](https://img.shields.io/badge/English-B2%20→%20C1-informational?style=flat-square&color=BA7517)
+![Open to work](https://img.shields.io/badge/Open%20to%20work-0550ae?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-116329?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-116329?style=flat-square&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-953800?style=flat-square&logo=proxmox&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-6e40c9?style=flat-square)
+![English B2→C1](https://img.shields.io/badge/English-B2%20→%20C1-7d4e00?style=flat-square)
 
 </div>
 
@@ -17,20 +19,38 @@
 
 | | |
 |---|---|
-| **Currently** | 2nd year ASIR — systems administration & networking |
-| **Focus** | Infrastructure, automation & system reliability |
+| **Currently** | 2nd year ASIR + internship in IT infrastructure |
+| **Focus** | Container orchestration, automation & monitoring |
 | **Also into** | Storytelling & creative writing |
 | **Goal** | First role in IT ops / sysadmin after graduating |
 
 ---
 
-## Technical stack
+## Featured — workflow automation project
 
-**Intermediate**
-`Linux / Bash` `Networking (TCP/IP, DNS, DHCP)` `MySQL` `HTML5 + CSS3`
+> **Document ingestion & analytics pipeline**
+>
+> Designed and deployed a fully automated document processing workflow: capture, classification, structured storage and live dashboard — entirely self-hosted.
+> Paperless-ngx → n8n → NocoDB → Metabase
 
-**Basic / learning**
-`Python` `Virtualisation (VirtualBox)` `Windows Server`
+---
+
+## Skills
+
+**Infrastructure & virtualisation**
+`Linux (Debian)` `Proxmox VE` `VM provisioning` `MikroTik RouterOS`
+
+**Containers & networking**
+`Docker & Compose` `Traefik (reverse proxy)` `Internal DNS` `TCP/IP · DHCP · VLANs`
+
+**Automation & data**
+`Workflow automation (n8n)` `Relational databases (MySQL · NocoDB)` `Data visualisation (Metabase)` `Document management (Paperless)`
+
+**Observability**
+`Service monitoring & alerting` `Log management` `Uptime & health checks`
+
+**Dev & scripting**
+`Bash` `HTML5 + CSS3` `MySQL` `Python` `Windows Server`
 
 ---
 
