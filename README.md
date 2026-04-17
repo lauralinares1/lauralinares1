@@ -17,6 +17,7 @@
 
 ## About
 
+| | |
 |---|---|
 | **Currently** | 2nd year ASIR + internship in IT infrastructure |
 | **Focus** | Container orchestration, automation & monitoring |
